@@ -1,5 +1,8 @@
 {
   "match":{
+    "team1":"Luxors",
+    "team2":"Flamingos",
+    "matchResult":"Luxors won by 13 runs",
     "AllInnings":
       [
        { 
