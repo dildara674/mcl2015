@@ -3,13 +3,13 @@
     "name":"Group A",
     "teams":[{
       "team":"Caesars",
-      "matches":0,
-      "won":0,
+      "matches":1,
+      "won":1,
       "lost":0,
       "tied":0,
       "noResult":0,
-      "points":0,
-      "last2":[]
+      "points":2,
+      "last2":[0]
     },
     {
       "team":"Flamingos",
@@ -32,13 +32,13 @@
       "last2":[1,1]
     },{
       "team":"Venetians",
-      "matches":1,
+      "matches":2,
       "won":0,
-      "lost":1,
+      "lost":2,
       "tied":0,
       "noResult":0,
       "points":0,
-      "last2":[0]
+      "last2":[0,0]
     }
       ]
   },
@@ -47,42 +47,42 @@
     "teams":[
        {
       "team":"Bellagios",
-      "matches":1,
-      "won":1,
+      "matches":2,
+      "won":2,
       "lost":0,
       "tied":0,
       "noResult":0,
-      "points":2,
-      "last2":[1]
+      "points":4,
+      "last2":[1,1]
     },
     {
       "team":"MGM Grands",
-      "matches":1,
+      "matches":2,
       "won":0,
-      "lost":1,
+      "lost":2,
       "tied":0,
       "noResult":0,
       "points":0,
-      "last2":[0]
+      "last2":[0,0]
     },
     {
       "team":"Stratosphere",
-      "matches":1,
+      "matches":2,
       "won":1,
-      "lost":0,
-      "tied":0,
-      "noResult":0,
-      "points":2,
-      "last2":[1]
-    },{
-      "team":"Wynn's",
-      "matches":1,
-      "won":0,
       "lost":1,
       "tied":0,
       "noResult":0,
-      "points":0,
-      "last2":[0]
+      "points":2,
+      "last2":[0,1]
+    },{
+      "team":"Wynn's",
+      "matches":2,
+      "won":1,
+      "lost":1,
+      "tied":0,
+      "noResult":0,
+      "points":2,
+      "last2":[1,0]
     }
       ]
   }
