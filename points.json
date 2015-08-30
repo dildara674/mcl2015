@@ -3,23 +3,23 @@
     "name":"Group A",
     "teams":[{
       "team":"Caesars",
-      "matches":1,
-      "won":1,
+      "matches":2,
+      "won":2,
       "lost":0,
       "tied":0,
       "noResult":0,
-      "points":2,
-      "last2":[0]
+      "points":4,
+      "last2":[1,1]
     },
     {
       "team":"Flamingos",
-      "matches":1,
+      "matches":2,
       "won":0,
       "lost":1,
       "tied":0,
       "noResult":0,
       "points":0,
-      "last2":[0]
+      "last2":[0,0]
     },
     {
       "team":"Luxors",
