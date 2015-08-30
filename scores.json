@@ -6,7 +6,7 @@
     "AllInnings":
       [
        { 
-         "bating":{
+         "batting":{
            "name":"Luxors",
            "playerInnings":[
              {
@@ -146,7 +146,7 @@
        },
        { 
          
-         "bating":{
+         "batting":{
            "name":"Flamingos",
            "playerInnings":[
              {
