@@ -1,0 +1,290 @@
+{
+  "match":{
+    "team1":"Luxors",
+    "team2":"Flamingos",
+    "matchResult":"Luxors won by 13 runs",
+    "AllInnings":
+      [
+       { 
+         "bating":{
+           "name":"Luxors",
+           "playerInnings":[
+             {
+               "name":"Phani Kumar Munagala",
+               "howout":"b Mohammed Elyaas",
+               "runs":5,
+               "balls":6,
+               "fours":0,
+               "sixes":0,
+               "scoring":[2,0,2,1,0,1,1,2,2,1,1,2,1,1,2,1,3,-1]
+             },
+             {
+               "name":"Mahesh Kumar Allu",
+               "howout":"c -- b Chaitanya Sunkavalli",
+               "runs":2,
+               "balls":4,
+               "fours":0,
+               "sixes":0,
+               "scoring":[0,0,2,1,0,0,1,2,0,0,1,2,0,1,0,0,1,1]
+             },
+             {
+               "name":"Sharath Kotla",
+               "howout":"Retired",
+               "runs":24,
+               "balls":38,
+               "fours":1,
+               "sixes":0
+             },
+             {
+               "name":"Kalyan Samartha Vennelakanty",
+               "howout":"Run out",
+               "runs":18,
+               "balls":22,
+               "fours":1,
+               "sixes":0
+             },
+             {
+               "name":"Neeraj Bhaskar",
+               "howout":"b Venkatesh Kondragunta",
+               "runs":13,
+               "balls":18,
+               "fours":0,
+               "sixes":0
+             },
+             {
+               "name":"Ramakrishna Sanigarapu",
+               "howout":"Not out",
+               "runs":15,
+               "balls":8,
+               "fours":1,
+               "sixes":0
+             },
+             {
+               "name":"Sanjeev Modugu",
+               "howout":"Run out",
+               "runs":0,
+               "balls":0,
+               "fours":0,
+               "sixes":0
+             }],
+           "extras":"W:14, N:7, B:0",
+           "fow":[
+           {
+             "wicket":1,
+             "runs":9,
+             "player":"Phani Kumar Munagala"
+           },
+           {
+             "wicket":2,
+             "runs":10,
+             "player":"Mahesh Kumar Allu"
+           },
+           {
+             "wicket":3,
+             "runs":56,
+             "player":"Kalyan Samartha Vennelakanty"
+           },
+           {
+             "wicket":4,
+             "runs":89,
+             "player":"Neeraj Bhaskar"
+           }]
+         },
+         "bowling":{
+           "name":"Flamingos",
+           "plalyersBowling":[
+             {
+               "name":"Vikram Bhaskar",
+               "overs":4,
+               "maiden":0,
+               "runs":36,
+               "wickets":0,
+               "dots":9,
+               "fours":2,
+               "sixes":0
+             },
+             {
+               "name":"Mohammed Elyaas",
+               "overs":4,
+               "maiden":0,
+               "runs":21,
+               "wickets":1,
+               "dots":12,
+               "fours":0,
+               "sixes":0
+             },
+             {
+               "name":"Chaitanya Sunkavalli",
+               "overs":3,
+               "maiden":0,
+               "runs":12,
+               "wickets":1,
+               "dots":9,
+               "fours":0,
+               "sixes":0
+             },
+             {
+               "name":"Venkatesh Kondragunta",
+               "overs":4,
+               "maiden":0,
+               "runs":21,
+               "wickets":1,
+               "dots":13,
+               "fours":1,
+               "sixes":0
+             },
+             {
+               "name":"Akbar A. Khan",
+               "overs":1,
+               "maiden":0,
+               "runs":7,
+               "wickets":0,
+               "dots":9,
+               "fours":2,
+               "sixes":0
+             }
+             ]
+         }
+       },
+       { 
+         
+         "bating":{
+           "name":"Flamingos",
+           "playerInnings":[
+             {
+               "name":"Seshu",
+               "howout":"b Neeraj Bhaskar",
+               "runs":24,
+               "balls":19,
+               "fours":0,
+               "sixes":0,
+               "scoring":[2,0,2,1,0,1,1,2,2,1,1,2,1,1,1,2,1,3,-1]
+             },
+             {
+               "name":"Karimulla Khan Pattan",
+               "howout":"Retired",
+               "runs":12,
+               "balls":19,
+               "fours":0,
+               "sixes":0,
+               "scoring":[0,0,2,1,0,0,1,2,0,0,1,2,0,1,0,0,1,1,0]
+             },
+             {
+               "name":"Krishna Akella",
+               "howout":"b Ramakrishna Sanigarapu",
+               "runs":15,
+               "balls":23,
+               "fours":1,
+               "sixes":0,
+               "scoring":[0,1,1,0,1,0,1,1,0,0,1,1,0,0,1,1,2,0,1,2,1,0]
+             },
+             {
+               "name":"Puneeth Kammili",
+               "howout":"Run out",
+               "runs":7,
+               "balls":6,
+               "fours":1,
+               "sixes":0,
+               "scoring":[4,0,1,0,2,-1]
+             },
+             {
+               "name":"Chandra Sekhar",
+               "howout":"b Kalyan Samartha Vennelakanty",
+               "runs":4,
+               "balls":8,
+               "fours":0,
+               "sixes":0,
+               "scoring":[0,1,0,0,2,0,1,-1]
+             },
+             {
+               "name":"Venkatesh Kondragunta",
+               "howout":"c & b Kalyan Samartha Vennelakanty",
+               "runs":4,
+               "balls":6,
+               "fours":0,
+               "sixes":0,
+               "scoring":[0,1,1,2,0,-1]
+             },
+             {
+               "name":"Mohammed Elyaas",
+               "howout":"Run out",
+               "runs":6,
+               "balls":7,
+               "fours":0,
+               "sixes":0,
+               "scoring":[1,1,0,2,0,1,1]
+             },
+             {
+               "name":"Vikram Bhaskar",
+               "howout":"Run out",
+               "runs":4,
+               "balls":5,
+               "fours":0,
+               "sixes":0,
+               "scoring":[1,1,1,1,0]
+             },
+             {
+               "name":"Chaitanya Sunkavalli",
+               "howout":"c  b Kalyan Samartha Vennelakanty",
+               "runs":2,
+               "balls":3,
+               "fours":0,
+               "sixes":0,
+               "scoring":[2,0,0]
+             }],
+           "extras":"W:5, N:2, B:0"
+         },
+         "fow":[
+           {
+             "wicket":1,
+             "runs":9,
+             "player":"Puneeth"
+           }],
+         "bowling":{
+           "plalyersBowling":[
+             {
+               "name":"Sanjeev Modugu",
+               "overs":4,
+               "maiden":0,
+               "runs":22,
+               "wickets":0,
+               "dots":10,
+               "fours":1,
+               "sixes":0
+             },
+             {
+               "name":"Ramakrishna Sanigarapu",
+               "overs":4,
+               "maiden":0,
+               "runs":18,
+               "wickets":2,
+               "dots":10,
+               "fours":0,
+               "sixes":0
+             },
+             {
+               "name":"Kalyan Samartha Vennelakanty",
+               "overs":4,
+               "maiden":0,
+               "runs":22,
+               "wickets":3,
+               "dots":9,
+               "fours":0,
+               "sixes":0
+             },
+             {
+               "name":"Neeraj Bhaskar",
+               "overs":4,
+               "maiden":0,
+               "runs":23,
+               "wickets":1,
+               "dots":5,
+               "fours":0,
+               "sixes":0
+             }
+             ]
+         }
+       }
+      ]
+  }
+}
