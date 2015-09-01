@@ -3,13 +3,13 @@
     "name":"Group A",
     "teams":[{
       "team":"Caesars",
-      "matches":2,
-      "won":2,
+      "matches":3,
+      "won":3,
       "lost":0,
       "tied":0,
       "noResult":0,
-      "points":4,
-      "last2":[1,1]
+      "points":6,
+      "last2":[1,1,1]
     },
     {
       "team":"Flamingos",
@@ -23,13 +23,13 @@
     },
     {
       "team":"Luxors",
-      "matches":2,
+      "matches":3,
       "won":2,
-      "lost":0,
+      "lost":1,
       "tied":0,
       "noResult":0,
       "points":4,
-      "last2":[1,1]
+      "last2":[0,1,1]
     },{
       "team":"Venetians",
       "matches":2,
@@ -47,13 +47,13 @@
     "teams":[
        {
       "team":"Bellagios",
-      "matches":2,
+      "matches":3,
       "won":2,
       "lost":0,
       "tied":0,
       "noResult":0,
       "points":4,
-      "last2":[1,1]
+      "last2":[0,1,1]
     },
     {
       "team":"MGM Grands",
@@ -76,13 +76,13 @@
       "last2":[0,1]
     },{
       "team":"Wynn's",
-      "matches":2,
-      "won":1,
+      "matches":3,
+      "won":2,
       "lost":1,
       "tied":0,
       "noResult":0,
-      "points":2,
-      "last2":[1,0]
+      "points":4,
+      "last2":[1,1,0]
     }
       ]
   }
