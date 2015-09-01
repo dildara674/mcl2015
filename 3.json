@@ -1,0 +1,589 @@
+{
+  "match": {
+    "team1": "Luxors",
+    "team2": "Venetians",
+    "matchResult": "Luxors won by 34 runs",
+    "AllInnings": [
+      {
+        "batting": {
+          "name": "Luxors",
+          "playerInnings": [
+            {
+              "name": "Nitya",
+              "howout": "Retired",
+              "runs": 29,
+              "balls": 35,
+              "fours": 1,
+              "sixes": 0
+            },
+            {
+              "name": "Srikanth",
+              "howout": "b Srikanth",
+              "runs": 13,
+              "balls": 14,
+              "fours": 0,
+              "sixes": 0
+            },
+            {
+              "name": "Kalyan",
+              "howout": "Run out",
+              "runs": 16,
+              "balls": 20,
+              "fours": 0,
+              "sixes": 0
+            },
+            {
+              "name": "Neeraj",
+              "howout": "Not out",
+              "runs": 26,
+              "balls": 23,
+              "fours": 1,
+              "sixes": 0
+            },
+            {
+              "name": "Ramki",
+              "howout": "Not out",
+              "runs": 2,
+              "balls": 4,
+              "fours": 0,
+              "sixes": 0
+            }
+          ],
+          "extras": "W:16, N:3, B:3",
+          "fow": [
+            {
+              "wicket": 1,
+              "runs": 37,
+              "player": "Srikanth"
+            }
+          ],
+          "runsByOver": [
+            {
+              "over": 1,
+              "runs": 6
+            },
+            {
+              "over": 2,
+              "runs": 10
+            },
+            {
+              "over": 3,
+              "runs": 17
+            },
+            {
+              "over": 4,
+              "runs": 23
+            },
+            {
+              "over": 5,
+              "runs": 31
+            },
+            {
+              "over": 6,
+              "runs": 36
+            },
+            {
+              "over": 7,
+              "runs": 37
+            },
+            {
+              "over": 8,
+              "runs": 50
+            },
+            {
+              "over": 9,
+              "runs": 56
+            },
+            {
+              "over": 10,
+              "runs": 64
+            },
+            {
+              "over": 11,
+              "runs": 69
+            },
+            {
+              "over": 12,
+              "runs": 77
+            },
+            {
+              "over": 13,
+              "runs": 86
+            },
+            {
+              "over": 14,
+              "runs": 92
+            },
+            {
+              "over": 15,
+              "runs": 101
+            },
+            {
+              "over": 16,
+              "runs": 108
+            }
+          ]
+        },
+        "bowling": {
+          "name": "Venetians",
+          "plalyersBowling": [
+            {
+              "name": "Sachin",
+              "overs": 4,
+              "maiden": 0,
+              "runs": 26,
+              "wickets": 0,
+              "dots": 9,
+              "fours": 0,
+              "sixes": 0
+            },
+            {
+              "name": "Gopi",
+              "overs": 3,
+              "maiden": 0,
+              "runs": 19,
+              "wickets": 0,
+              "dots": 6,
+              "fours": 0,
+              "sixes": 0
+            },
+            {
+              "name": "Mirza",
+              "overs": 1,
+              "maiden": 0,
+              "runs": 8,
+              "wickets": 0,
+              "dots": 2,
+              "fours": 0,
+              "sixes": 0
+            },
+            {
+              "name": "Srikanth",
+              "overs": 4,
+              "maiden": 0,
+              "runs": 25,
+              "wickets": 1,
+              "dots": 13,
+              "fours": 1,
+              "sixes": 0
+            },
+            {
+              "name": "Yusuf",
+              "overs": 1,
+              "maiden": 0,
+              "runs": 13,
+              "wickets": 0,
+              "dots": 2,
+              "fours": 1,
+              "sixes": 0
+            },
+            {
+              "name": "Ajay",
+              "overs": 1,
+              "maiden": 0,
+              "runs": 6,
+              "wickets": 0,
+              "dots": 3,
+              "fours": 0,
+              "sixes": 0
+            },
+            {
+              "name": "Ravi",
+              "overs": 1,
+              "maiden": 0,
+              "runs": 5,
+              "wickets": 0,
+              "dots": 3,
+              "fours": 0,
+              "sixes": 0
+            },
+            {
+              "name": "Murthy",
+              "overs": 1,
+              "maiden": 0,
+              "runs": 6,
+              "wickets": 0,
+              "dots": 2,
+              "fours": 0,
+              "sixes": 0
+            }
+          ]
+        }
+      },
+      {
+        "batting": {
+          "name": "Venetianss",
+          "playerInnings": [
+            {
+              "name": "Murthy",
+              "howout": "c Suresh Pillai b Kalyan",
+              "runs": 9,
+              "balls": 16,
+              "fours": 0,
+              "sixes": 0,
+              "scoring": [
+                2,
+                0,
+                2,
+                1,
+                0,
+                1,
+                1,
+                2,
+                2,
+                1,
+                1,
+                2,
+                1,
+                1,
+                1,
+                2,
+                1,
+                3,
+                -1
+              ]
+            },
+            {
+              "name": "Divanshu",
+              "howout": "b Ramki",
+              "runs": 1,
+              "balls": 4,
+              "fours": 0,
+              "sixes": 0,
+              "scoring": [
+                0,
+                0,
+                2,
+                1,
+                0,
+                0,
+                1,
+                2,
+                0,
+                0,
+                1,
+                2,
+                0,
+                1,
+                0,
+                0,
+                1,
+                1,
+                0
+              ]
+            },
+            {
+              "name": "Mirza",
+              "howout": "Run out",
+              "runs": 21,
+              "balls": 23,
+              "fours": 0,
+              "sixes": 0,
+              "scoring": [
+                0,
+                1,
+                1,
+                0,
+                1,
+                0,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                2,
+                0,
+                1,
+                2,
+                1,
+                0
+              ]
+            },
+            {
+              "name": "Sachin",
+              "howout": "c Neeraj b Kalyan",
+              "runs": 11,
+              "balls": 10,
+              "fours": 0,
+              "sixes": 0,
+              "scoring": [
+                4,
+                0,
+                1,
+                0,
+                2,
+                -1
+              ]
+            },
+            {
+              "name": "Srikanth",
+              "howout": "c Kalyan b Ramki",
+              "runs": 8,
+              "balls": 9,
+              "fours": 0,
+              "sixes": 0,
+              "scoring": [
+                0,
+                1,
+                0,
+                0,
+                2,
+                0,
+                1,
+                -1
+              ]
+            },
+            {
+              "name": "Gopi",
+              "howout": "b Kalyan",
+              "runs": 3,
+              "balls": 11,
+              "fours": 0,
+              "sixes": 0,
+              "scoring": [
+                0,
+                1,
+                1,
+                2,
+                0,
+                -1
+              ]
+            },
+            {
+              "name": "Ravi",
+              "howout": "Run out (Kalyan)",
+              "runs": 1,
+              "balls": 2,
+              "fours": 0,
+              "sixes": 0,
+              "scoring": [
+                1,
+                1,
+                0,
+                2,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "name": "Ajay",
+              "howout": "Run out (Kalyan/Sharath)",
+              "runs": 0,
+              "balls": 4,
+              "fours": 0,
+              "sixes": 0,
+              "scoring": [
+                1,
+                1,
+                1,
+                1,
+                0
+              ]
+            },
+            {
+              "name": "Rajeev",
+              "howout": "b Kalyan",
+              "runs": 0,
+              "balls": 3,
+              "fours": 0,
+              "sixes": 0,
+              "scoring": [
+                2,
+                0,
+                0
+              ]
+            },
+            {
+              "name": "Yusuf",
+              "howout": "Not out",
+              "runs": 0,
+              "balls": 0,
+              "fours": 0,
+              "sixes": 0,
+              "scoring": [
+                2,
+                0,
+                0
+              ]
+            },
+            {
+              "name": "Amit",
+              "howout": "b Sanjeev",
+              "runs": 0,
+              "balls": 2,
+              "fours": 0,
+              "sixes": 0,
+              "scoring": [
+                2,
+                0,
+                0
+              ]
+            }
+          ],
+          "extras": "W:8, N:0, B:2",
+          "runsByOver": [
+            {
+              "over": 1,
+              "runs": 2
+            },
+            {
+              "over": 2,
+              "runs": 6
+            },
+            {
+              "over": 3,
+              "runs": 13
+            },
+            {
+              "over": 4,
+              "runs": 16
+            },
+            {
+              "over": 5,
+              "runs": 20
+            },
+            {
+              "over": 6,
+              "runs": 27
+            },
+            {
+              "over": 7,
+              "runs": 35
+            },
+            {
+              "over": 8,
+              "runs": 42
+            },
+            {
+              "over": 9,
+              "runs": 48
+            },
+            {
+              "over": 10,
+              "runs": 54
+            },
+            {
+              "over": 11,
+              "runs": 55
+            },
+            {
+              "over": 12,
+              "runs": 62
+            },
+            {
+              "over": 13,
+              "runs": 64
+            },
+            {
+              "over": 14,
+              "runs": 64
+            }
+          ],
+          "fow": [
+            {
+              "wicket": 1,
+              "runs": 2,
+              "player": "Puneeth"
+            },           
+            {
+              "wicket": 2,
+              "runs": 18,
+              "player": "Puneeth"
+            },           
+            {
+              "wicket": 3,
+              "runs": 29,
+              "player": "Puneeth"
+            },           
+            {
+              "wicket": 4,
+              "runs": 51,
+              "player": "Puneeth"
+            },           
+            {
+              "wicket": 5,
+              "runs": 54,
+              "player": "Puneeth"
+            },           
+            {
+              "wicket": 6,
+              "runs": 63,
+              "player": "Puneeth"
+            },           
+            {
+              "wicket": 7,
+              "runs": 64,
+              "player": "Puneeth"
+            },           
+            {
+              "wicket": 8,
+              "runs": 64,
+              "player": "Puneeth"
+            }
+            
+          ]
+        },
+        "bowling": {
+          "plalyersBowling": [
+            {
+              "name": "Sanjeev",
+              "overs": 4,
+              "maiden": 0,
+              "runs": 15,
+              "wickets": 2,
+              "dots": 10,
+              "fours": 0,
+              "sixes": 0
+            },
+            {
+              "name": "Ramki",
+              "overs": 3,
+              "maiden": 0,
+              "runs": 8,
+              "wickets": 2,
+              "dots": 11,
+              "fours": 0,
+              "sixes": 0
+            },
+            {
+              "name": "Neeraj",
+              "overs": 2,
+              "maiden": 0,
+              "runs": 14,
+              "wickets": 0,
+              "dots": 3,
+              "fours": 0,
+              "sixes": 0
+            },
+            {
+              "name": "Kalyan",
+              "overs": 4,
+              "maiden": 0,
+              "runs": 20,
+              "wickets": 4,
+              "dots": 10,
+              "fours": 0,
+              "sixes": 0
+            },
+            {
+              "name": "Deepesh",
+              "overs": 1,
+              "maiden": 0,
+              "runs": 7,
+              "wickets": 0,
+              "dots": 4,
+              "fours": 0,
+              "sixes": 0
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
