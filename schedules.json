@@ -4,40 +4,46 @@
       "name":"Group A",
       "matches":[
         {
+          "id":1,
           "teams":{"team1":"Luxors","team2":"Flamingos"},
           "Location":"Marymoor Park, Soccer Field #06",
           "complete":true,
-          "time":"2015-08-21 19:00 PST"
+          "time":"2015-08-21 19:00:00"
         },
         {
+          "id":3,
           "teams":{"team1":"Luxors","team2":"Venetians"},
           "complete":true,
           "Location":"Marymoor Park, Soccer Field #06",
-          "time":"2015-08-22 17:30 PST"
+          "time":"2015-08-22 17:30:00"
         },
         {
+          "id":5,
           "teams":{"team1":"Venetians","team2":"Caesars"},
           "Location":"Marymoor Park, Soccer Field #01",
           "complete":false,
-          "time":"2015-08-28 19:30 PST"
+          "time":"2015-08-28 19:30:00"
         },
         {
+          "id":7,
           "teams":{"team1":"Caesars","team2":"Flamingos"},
           "complete":false,
           "Location":"Marymoor Park, Soccer Field #04",
-          "time":"2015-08-29 17:00 PST"
+          "time":"2015-08-29 17:00:00"
         },
         {
+          "id":9,
           "teams":{"team1":"Luxors","team2":"Caesars"},
           "Location":"Marymoor Park, Soccer Field #06",
           "complete":false,
-          "time":"2015-08-30 18:00 PST"
+          "time":"2015-08-30 18:00:00"
         },
         {
+          "id":11,
           "teams":{"team1":"Venetians","team2":"Flamingos"},
           "complete":false,
           "Location":"Marymoor Park, Soccer Field #06",
-          "time":"2015-09-11 19:30 PST"
+          "time":"2015-09-11 19:30:00"
         }
         ]
     },
@@ -45,40 +51,46 @@
       "name":"Group B",
       "matches":[
         {
+          "id":2,
           "teams":{"team1":"Wynn's ","team2":"Stratosphere"},
           "complete":true,
           "Location":"Marymoor Park, Soccer Field #06",
-          "time":"2015-08-22 15:00 PST"
+          "time":"2015-08-22 15:00:00"
         },
         {
+          "id":4,
           "teams":{"team1":"MGM Grands","team2":"Bellagios"},
           "Location":"Marymoor Park, Soccer Field #06",
           "complete":true,
-          "time":"2015-08-22 20:00 PST"
+          "time":"2015-08-22 20:00:00"
         },
         {
+          "id":6,
           "teams":{"team1":"MGM Grands","team2":"Wynn's "},
           "Location":"Marymoor Park, Soccer Field #04",
           "complete":false,
-          "time":"2015-08-28 19:30 PST"
+          "time":"2015-08-28 19:30:00"
         },
         {
+          "id":8,
           "teams":{"team1":"Stratosphere","team2":"Bellagios"},
           "complete":false,
           "Location":"Marymoor Park, Soccer Field #04",
-          "time":"2015-08-29 09:00 PST"
+          "time":"2015-08-29 09:00:00"
         },
         {
+          "id":10,
           "teams":{"team1":"Wynn's","team2":"Bellagios"},
           "Location":"Marymoor Park, Soccer Field #06",
           "complete":false,
-          "time":"2015-08-30 20:30 PST"
+          "time":"2015-08-30 20:30:00"
         },
         {
+          "id":12,
           "teams":{"team1":"MGM Grands","team2":"Stratosphere"},
           "complete":false,
           "Location":"Marymoor Park, Soccer Field #01",
-          "time":"2015-09-13 20:30 PST"
+          "time":"2015-09-13 20:30:00"
         }
         ]
     },
@@ -86,16 +98,18 @@
       "name":"Playoffs",
       "matches":[
         {
+          "id":13,
           "teams":{"team1":"Group A #1","team2":"Group B #2"},
           "complete":false,
           "Location":"Robinswood Park, West Soccer Field",
-          "time":"2015-09-18 18:00 PST"
+          "time":"2015-09-18 18:00:00"
         },
         {
+          "id":14,
           "teams":{"team1":"Group A #2","team2":"Group B #1"},
           "Location":"Robinswood Park, West Soccer Field",
           "complete":false,
-          "time":"2015-09-18 20:30 PST"
+          "time":"2015-09-18 20:30:00"
         }
         ]
     },
@@ -103,10 +117,11 @@
       "name":"Final",
       "matches":[
         {
+          "id":15,
           "teams":{"team1":"Semifinal 1 winner","team2":"Semifinal 2 winner"},
           "complete":false,
           "Location":"Marymoor Park, Soccer Field #06",
-          "time":"2015-09-20 17:00 PST"
+          "time":"2015-09-20 17:00:00"
         }
         ]
     }
