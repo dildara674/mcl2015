@@ -8,14 +8,14 @@
       "lost":0,
       "tied":0,
       "noResult":0,
-      "points":6,
+      "points":30,
       "last2":[1,1,1]
     },
     {
       "team":"Flamingos",
       "matches":2,
       "won":0,
-      "lost":1,
+      "lost":2,
       "tied":0,
       "noResult":0,
       "points":0,
@@ -28,7 +28,7 @@
       "lost":1,
       "tied":0,
       "noResult":0,
-      "points":4,
+      "points":20,
       "last2":[0,1,1]
     },{
       "team":"Venetians",
@@ -52,7 +52,7 @@
       "lost":0,
       "tied":0,
       "noResult":0,
-      "points":4,
+      "points":20,
       "last2":[0,1,1]
     },
     {
@@ -72,7 +72,7 @@
       "lost":1,
       "tied":0,
       "noResult":0,
-      "points":2,
+      "points":10,
       "last2":[0,1]
     },{
       "team":"Wynn's",
@@ -81,7 +81,7 @@
       "lost":1,
       "tied":0,
       "noResult":0,
-      "points":4,
+      "points":20,
       "last2":[1,1,0]
     }
       ]
