@@ -1,0 +1,614 @@
+{
+  "Groups": [
+    {
+      "name": "Group A",
+      "Teams": [
+        {
+          "name": "Venetians",
+          "members": [
+            {
+              "id": 1,
+              "name": "Mirza Baig",
+              "isCaptain": false
+            },
+            {
+              "id": 2,
+              "name": "Gopinathan Duraiswamy",
+              "false": false
+            },
+            {
+              "id": 3,
+              "name": "Srikant Panda",
+              "isCaptain": true
+            },
+            {
+              "id": 4,
+              "name": "Sachin Mohindru",
+              "isCaptain": false
+            },
+            {
+              "id": 5,
+              "name": "Tln Murty",
+              "isCaptain": false
+            },
+            {
+              "id": 6,
+              "name": "Divanshu Kumar",
+              "isCaptain": false
+            },
+            {
+              "id": 7,
+              "name": "Uday Kokatla",
+              "isCaptain": false
+            },
+            {
+              "id": 8,
+              "name": "Mohd Yousuf Baba",
+              "isCaptain": false
+            },
+            {
+              "id": 9,
+              "name": "Milind Khadloya",
+              "isCaptain": false
+            },
+            {
+              "id": 10,
+              "name": "Rajeev Ghodki",
+              "isCaptain": false
+            },
+            {
+              "id": 11,
+              "name": "Hitesh Modi",
+              "isCaptain": false
+            },
+            {
+              "id": 12,
+              "name": "Ravikant Sharma",
+              "isCaptain": false
+            },
+            {
+              "id": 13,
+              "name": "Faustin de Souza",
+              "isCaptain": false
+            },
+            {
+              "id": 14,
+              "name": "Amit Bajaj",
+              "isCaptain": false
+            }
+          ]
+        },
+        {
+          "name": "Caesars",
+          "members": [
+            {
+              "id": 15,
+              "name": "Subramanyam Vsm",
+              "isCaptain": true
+            },
+            {
+              "id": 16,
+              "name": "Ranjith Kumar",
+              "false": false
+            },
+            {
+              "id": 17,
+              "name": "Varun Gupta",
+              "isCaptain": true
+            },
+            {
+              "id": 18,
+              "name": "Robin Paul",
+              "isCaptain": false
+            },
+            {
+              "id": 19,
+              "name": "Manjunath Jagadish",
+              "isCaptain": false
+            },
+            {
+              "id": 20,
+              "name": "Biju Mathew",
+              "isCaptain": false
+            },
+            {
+              "id": 21,
+              "name": "Mark Perera",
+              "isCaptain": false
+            },
+            {
+              "id": 22,
+              "name": "Dipak Pani",
+              "isCaptain": false
+            },
+            {
+              "id": 23,
+              "name": "Pradeep Kommaraju",
+              "isCaptain": false
+            },
+            {
+              "id": 24,
+              "name": "Dhruv Arora",
+              "isCaptain": false
+            },
+            {
+              "id": 25,
+              "name": "Jagadish Katikela",
+              "isCaptain": false
+            },
+            {
+              "id": 26,
+              "name": "Laxman Gulaka",
+              "isCaptain": false
+            },
+            {
+              "id": 27,
+              "name": "Peeyush Shrivastava",
+              "isCaptain": false
+            },
+            {
+              "id": 28,
+              "name": "Prathamesh Govekar",
+              "isCaptain": false
+            }
+          ]
+        },
+        {
+          "name": "Flamingos",
+          "members": [
+            {
+              "id": 29,
+              "name": "Karimulla Khan Pattan",
+              "isCaptain": false
+            },
+            {
+              "id": 30,
+              "name": "Datta M. Shinde",
+              "false": false
+            },
+            {
+              "id": 31,
+              "name": "Mohammed Elyaas",
+              "isCaptain": true
+            },
+            {
+              "id": 32,
+              "name": "Shiva Charan Reddy Patpi",
+              "isCaptain": false
+            },
+            {
+              "id": 33,
+              "name": "Shiva Rama Krishna Akella",
+              "isCaptain": false
+            },
+            {
+              "id": 34,
+              "name": "Venkatesh Kondragunta",
+              "isCaptain": false
+            },
+            {
+              "id": 35,
+              "name": "Vikram Bhaskar",
+              "isCaptain": false
+            },
+            {
+              "id": 36,
+              "name": "Chandra Shekar",
+              "isCaptain": true
+            },
+            {
+              "id": 37,
+              "name": "Chaitanya Sunkavalli",
+              "isCaptain": false
+            },
+            {
+              "id": 38,
+              "name": "Rohit Asthana",
+              "isCaptain": false
+            },
+            {
+              "id": 39,
+              "name": "Hari Kishore",
+              "isCaptain": false
+            },
+            {
+              "id": 40,
+              "name": "Ananthanatarajan Muthusamy",
+              "isCaptain": false
+            },
+            {
+              "id": 41,
+              "name": "Akbar A. Khan",
+              "isCaptain": false
+            },
+            {
+              "id": 42,
+              "name": "Manohar Soni",
+              "isCaptain": false
+            }
+          ]
+        },
+        {
+          "name": "Luxors",
+          "members": [
+            {
+              "id": 43,
+              "name": "Kalyan Samartha Vennelakanty",
+              "isCaptain": false
+            },
+            {
+              "id": 44,
+              "name": "Sharath Kotla",
+              "false": false
+            },
+            {
+              "id": 45,
+              "name": "Ramakrishna Sanigarapu",
+              "isCaptain": true
+            },
+            {
+              "id": 46,
+              "name": "Sanjeevkumar Reddy Modugu",
+              "isCaptain": false
+            },
+            {
+              "id": 47,
+              "name": "Phani Kumar Munagala",
+              "isCaptain": false
+            },
+            {
+              "id": 48,
+              "name": "Ajit Kumar",
+              "isCaptain": false
+            },
+            {
+              "id": 49,
+              "name": "Venkat Tallapaneni",
+              "isCaptain": false
+            },
+            {
+              "id": 50,
+              "name": "Srikanth Garnipudi",
+              "isCaptain": false
+            },
+            {
+              "id": 51,
+              "name": "Suresh Pillai",
+              "isCaptain": false
+            },
+            {
+              "id": 52,
+              "name": "Nithiyanandam Subramaniam",
+              "isCaptain": false
+            },
+            {
+              "id": 53,
+              "name": "Deepesh Pradhan",
+              "isCaptain": false
+            },
+            {
+              "id": 54,
+              "name": "Neeraj Bhaskar",
+              "isCaptain": false
+            },
+            {
+              "id": 55,
+              "name": "Surisetty Venkataviswanadh",
+              "isCaptain": false
+            },
+            {
+              "id": 56,
+              "name": "Mahesh Kumar Allu",
+              "isCaptain": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Group B",
+      "Teams": [
+        {
+          "name": "MGM Grands",
+          "members": [
+            {
+              "id": 58,
+              "name": "Dileep Dara",
+              "isCaptain": false
+            },
+            {
+              "id": 59,
+              "name": "Nikhil Joshi",
+              "false": false
+            },
+            {
+              "id": 60,
+              "name": "Rishabh Srivastava",
+              "isCaptain": true
+            },
+            {
+              "id": 61,
+              "name": "Sudhindra Tirnahalli",
+              "isCaptain": false
+            },
+            {
+              "id": 62,
+              "name": "Pavan Nookala",
+              "isCaptain": false
+            },
+            {
+              "id": 63,
+              "name": "Mir Mohasin Razza",
+              "isCaptain": false
+            },
+            {
+              "id": 64,
+              "name": "Antony Nallathambi",
+              "isCaptain": false
+            },
+            {
+              "id": 65,
+              "name": "Rajashekar Rayi",
+              "isCaptain": false
+            },
+            {
+              "id": 66,
+              "name": "Rajesh Vadlamani",
+              "isCaptain": false
+            },
+            {
+              "id": 67,
+              "name": "Sagar Mahajan",
+              "isCaptain": false
+            },
+            {
+              "id": 68,
+              "name": "Imran Ullah Khan",
+              "isCaptain": false
+            },
+            {
+              "id": 69,
+              "name": "Harinkumar Balerao",
+              "isCaptain": false
+            },
+            {
+              "id": 70,
+              "name": "Raj Baraty",
+              "isCaptain": false
+            },
+            {
+              "id": 71,
+              "name": "Sambasiva Rao Boddu",
+              "isCaptain": false
+            }
+          ]
+        },
+        {
+          "name": "Wynn's",
+          "members": [
+            {
+              "id": 57,
+              "name": "Mani",
+              "isCaptain": false
+            },
+            {
+              "id": 72,
+              "name": "Krishna Kishore N",
+              "false": false
+            },
+            {
+              "id": 73,
+              "name": "Udayshankar A B",
+              "isCaptain": true
+            },
+            {
+              "id": 74,
+              "name": "Udaya Bhanu Nalla",
+              "isCaptain": true
+            },
+            {
+              "id": 75,
+              "name": "Jayadev Bandla",
+              "isCaptain": false
+            },
+            {
+              "id": 76,
+              "name": "Ritesh Lekhwar",
+              "isCaptain": false
+            },
+            {
+              "id": 77,
+              "name": "Shanthanu Bilay",
+              "isCaptain": false
+            },
+            {
+              "id": 78,
+              "name": "Kasiviswanathan T",
+              "isCaptain": false
+            },
+            {
+              "id": 79,
+              "name": "Mohammed Bismeen",
+              "isCaptain": false
+            },
+            {
+              "id": 80,
+              "name": "Sri Harsha Kalavala",
+              "isCaptain": false
+            },
+            {
+              "id": 81,
+              "name": "Srinivas Karumuri",
+              "isCaptain": false
+            },
+            {
+              "id": 82,
+              "name": "Ramanjineyalu Konka",
+              "isCaptain": false
+            },
+            {
+              "id": 83,
+              "name": "Badrinarayanan P",
+              "isCaptain": false
+            },
+            {
+              "id": 84,
+              "name": "Samir Kumar Patnaik",
+              "isCaptain": false
+            }
+          ]
+        },
+        {
+          "name": "Stratosphere",
+          "members": [
+            {
+              "id": 85,
+              "name": "Nisar Ansari",
+              "isCaptain": false
+            },
+            {
+              "id": 86,
+              "name": "Suman Perni",
+              "false": false
+            },
+            {
+              "id": 87,
+              "name": "Leela Peddiboina",
+              "isCaptain": false
+            },
+            {
+              "id": 88,
+              "name": "Rahul Patil",
+              "isCaptain": true
+            },
+            {
+              "id": 89,
+              "name": "Sankarnarayana Nemani",
+              "isCaptain": false
+            },
+            {
+              "id": 90,
+              "name": "Pramod M A",
+              "isCaptain": false
+            },
+            {
+              "id": 91,
+              "name": "Navin Kumar Ragati",
+              "isCaptain": false
+            },
+            {
+              "id": 92,
+              "name": "Nageswararao Kolluri",
+              "isCaptain": false
+            },
+            {
+              "id": 93,
+              "name": "Biplab Meher",
+              "isCaptain": false
+            },
+            {
+              "id": 94,
+              "name": "Hyder Syed",
+              "isCaptain": false
+            },
+            {
+              "id": 95,
+              "name": "Susheel Varma",
+              "isCaptain": false
+            },
+            {
+              "id": 96,
+              "name": "Rex Leo",
+              "isCaptain": false
+            },
+            {
+              "id": 97,
+              "name": "Vijaya Munukutla",
+              "isCaptain": false
+            },
+            {
+              "id": 98,
+              "name": "Shaun Broomall",
+              "isCaptain": false
+            }
+          ]
+        },
+        {
+          "name": "Bellagios",
+          "members": [
+            {
+              "id": 100,
+              "name": "Satish Kumar V",
+              "isCaptain": false
+            },
+            {
+              "id": 101,
+              "name": "Praveen Kumar Reddy",
+              "false": false
+            },
+            {
+              "id": 102,
+              "name": "Puneeth Kammili",
+              "isCaptain": true
+            },
+            {
+              "id": 103,
+              "name": "Nagaraj Satyanarayana",
+              "isCaptain": false
+            },
+            {
+              "id": 104,
+              "name": "Satish Ravulapalli",
+              "isCaptain": false
+            },
+            {
+              "id": 105,
+              "name": "Veerabhadra Achari",
+              "isCaptain": false
+            },
+            {
+              "id": 106,
+              "name": "Anil Bandari",
+              "isCaptain": false
+            },
+            {
+              "id": 107,
+              "name": "Shyam Kuravalli",
+              "isCaptain": false
+            },
+            {
+              "id": 108,
+              "name": "Anil Kandibanda",
+              "isCaptain": false
+            },
+            {
+              "id": 109,
+              "name": "Suryaprakash Reddy Putluri",
+              "isCaptain": false
+            },
+            {
+              "id": 110,
+              "name": "Shiva Krishna Y",
+              "isCaptain": false
+            },
+            {
+              "id": 111,
+              "name": "Rajesh Dammala",
+              "isCaptain": false
+            },
+            {
+              "id": 112,
+              "name": "Bhaskar Sunkada",
+              "isCaptain": false
+            },
+            {
+              "id": 99,
+              "name": "Bhavesh Goradia",
+              "isCaptain": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
