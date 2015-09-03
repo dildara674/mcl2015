@@ -212,7 +212,7 @@
       },
       {
         "batting": {
-          "name": "Venetianss",
+          "name": "Venetians",
           "playerInnings": [
             {
               "name": "Murthy",
@@ -490,46 +490,46 @@
               "wicket": 1,
               "runs": 2,
               "player": "Puneeth"
-            },           
+            },
             {
               "wicket": 2,
               "runs": 18,
               "player": "Puneeth"
-            },           
+            },
             {
               "wicket": 3,
               "runs": 29,
               "player": "Puneeth"
-            },           
+            },
             {
               "wicket": 4,
               "runs": 51,
               "player": "Puneeth"
-            },           
+            },
             {
               "wicket": 5,
               "runs": 54,
               "player": "Puneeth"
-            },           
+            },
             {
               "wicket": 6,
               "runs": 63,
               "player": "Puneeth"
-            },           
+            },
             {
               "wicket": 7,
               "runs": 64,
               "player": "Puneeth"
-            },           
+            },
             {
               "wicket": 8,
               "runs": 64,
               "player": "Puneeth"
             }
-            
           ]
         },
         "bowling": {
+          "name": "Luxors",
           "plalyersBowling": [
             {
               "name": "Sanjeev",
