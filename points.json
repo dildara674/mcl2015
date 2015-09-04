@@ -9,7 +9,15 @@
       "tied":0,
       "noResult":0,
       "points":30,
-      "last2":[1,1,1]
+      "last2":[1,1,1],
+      "for":{
+        "runs":[64,106],
+        "overs":[63,96]
+      },
+      "against":{
+        "runs":[63,99],
+        "overs":[96,96]
+      }
     },
     {
       "team":"Flamingos",
@@ -19,7 +27,15 @@
       "tied":0,
       "noResult":0,
       "points":0,
-      "last2":[0,0]
+      "last2":[0,0],
+      "for":{
+        "runs":[85,63],
+        "overs":[96,96]
+      },
+      "against":{
+        "runs":[98,64],
+        "overs":[96,63]
+      }
     },
     {
       "team":"Luxors",
@@ -29,7 +45,15 @@
       "tied":0,
       "noResult":0,
       "points":20,
-      "last2":[0,1,1]
+      "last2":[0,1,1],
+      "for":{
+        "runs":[98,108,99],
+        "overs":[96,96,96]
+      },
+      "against":{
+        "runs":[85,64,106],
+        "overs":[96,96,96]
+      }
     },{
       "team":"Venetians",
       "matches":2,
@@ -38,7 +62,15 @@
       "tied":0,
       "noResult":0,
       "points":0,
-      "last2":[0,0]
+      "last2":[0,0],
+      "for":{
+        "runs":[64],
+        "overs":[96]
+      },
+      "against":{
+        "runs":[108],
+        "overs":[96]
+      }
     }
       ]
   },
@@ -53,7 +85,15 @@
       "tied":0,
       "noResult":0,
       "points":20,
-      "last2":[0,1,1]
+      "last2":[0,1,1],
+      "for":{
+        "runs":[89,96,56],
+        "overs":[80,96,94]
+      },
+      "against":{
+        "runs":[87,67,57],
+        "overs":[96,96,76]
+      }
     },
     {
       "team":"MGM Grands",
@@ -63,7 +103,15 @@
       "tied":0,
       "noResult":0,
       "points":0,
-      "last2":[0,0]
+      "last2":[0,0],
+      "for":{
+        "runs":[87],
+        "overs":[96]
+      },
+      "against":{
+        "runs":[87],
+        "overs":[80]
+      }
     },
     {
       "team":"Stratosphere",
@@ -73,7 +121,15 @@
       "tied":0,
       "noResult":0,
       "points":10,
-      "last2":[0,1]
+      "last2":[0,1],
+      "for":{
+        "runs":[104,67],
+        "overs":[96,96]
+      },
+      "against":{
+        "runs":[40,96],
+        "overs":[96,96]
+      }
     },{
       "team":"Wynn's",
       "matches":3,
@@ -82,7 +138,15 @@
       "tied":0,
       "noResult":0,
       "points":20,
-      "last2":[1,1,0]
+      "last2":[1,1,0],
+      "for":{
+        "runs":[40,57],
+        "overs":[96,76]
+      },
+      "against":{
+        "runs":[104,56],
+        "overs":[96,96]
+      }
     }
       ]
   }
