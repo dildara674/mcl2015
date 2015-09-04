@@ -498,6 +498,7 @@
           ]
         },
         "bowling": {
+          "name":"Luxors",
           "plalyersBowling": [
             {
               "id": 46,
