@@ -1,273 +1,214 @@
 {
   "match": {
-    "team1": "Flamingos",
-    "team2": "Caesars",
-    "matchResult": "Caesars won by 9 wickets",
+    "team1": "Stratosphere",
+    "team2": "Bellagios",
+    "matchResult": "Bellagios won by 29 wickets",
     "AllInnings": [
       {
         "batting": {
-          "name": "Flamingos",
+          "name": "Bellagios",
           "playerInnings": [
             {
-              "id": 41,
-              "name": "Akbar",
-              "howout": "c Dhruv b Robin",
-              "runs": 2,
-              "balls": 3,
+              "id": 115,
+              "name": "Mahesh",
+              "howout": "c Biplab b Suman",
+              "runs": 24,
+              "balls": 31,
+              "fours": 1,
+              "sixes": 0
+            },
+            {
+              "id": 100,
+              "name": "Satish",
+              "howout": "c Leela b Biplab",
+              "runs": 19,
+              "balls": 20,
+              "fours": 1,
+              "sixes": 0
+            },
+            {
+              "id": 103,
+              "name": "Nagaraj",
+              "howout": "c Mani b KK",
+              "runs": 4,
+              "balls": 7,
               "fours": 0,
               "sixes": 0
             },
             {
-              "id": 34,
-              "name": "Venky",
-              "howout": "c Pradeep b Ranjith",
-              "runs": 6,
-              "balls": 10,
-              "fours": 0,
-              "sixes": 0
-            },
-            {
-              "id": 33,
-              "name": "Krishna",
-              "howout": "c Laxman b Subbu",
+              "id": 101,
+              "name": "Praveen",
+              "howout": "Run out",
               "runs": 15,
-              "balls": 24,
+              "balls": 16,
               "fours": 0,
               "sixes": 0
             },
             {
-              "id": 36,
-              "name": "Chandra Sekhar",
-              "howout": "c Dhruv b Robin",
-              "runs": 8,
-              "balls": 13,
-              "fours": 0,
-              "sixes": 0
-            },
-            
-            {
-              "id": 37,
-              "name": "Chaitanya",
-              "howout": "c Varun b Biju",
-              "runs": 10,
-              "balls": 17,
+              "id": 106,
+              "name": "Anil",
+              "howout": "c Susheel b Suman",
+              "runs": 1,
+              "balls": 2,
               "fours": 0,
               "sixes": 0
             },
             {
-              "id": 31,
-              "name": "Elyaas",
-              "howout": "b Subbu",
-              "runs": 3,
-              "balls": 4,
-              "fours": 0,
-              "sixes": 0
-            },
-            {
-              "id": 42,
-              "name": "Manohar",
-              "howout": "c Biju b Subbu",
+              "id": 105,
+              "name": "Veera",
+              "howout": "c Leela b Suman",
               "runs": 0,
               "balls": 1,
               "fours": 0,
               "sixes": 0
             },
             {
-              "id": 29,
-              "name": "Karimulla",
-              "howout": "c Anil b Bhaskar",
-              "runs": 7,
-              "balls": 11,
+              "id": 112,
+              "name": "Bhaskar",
+              "howout": "Not out",
+              "runs": 5,
+              "balls": 4,
               "fours": 0,
               "sixes": 0
             },
             {
-              "id": 39,
-              "name": "Hari",
-              "howout": "Retired",
+              "id": 116,
+              "name": "Avinash",
+              "howout": "b Shantanu",
               "runs": 2,
-              "balls": 8,
-              "fours": 0,
-              "sixes": 0
-            },
-            {
-              "id": 35,
-              "name": "Vikram",
-              "howout": "Not out",
-              "runs": 3,
-              "balls": 2,
-              "fours": 0,
-              "sixes": 0
-            },
-            {
-              "id":116,
-              "name": "Anand",
-              "howout": "Not out",
-              "runs": 0,
-              "balls": 0,
+              "balls": 4,
               "fours": 0,
               "sixes": 0
             }
           ],
           "extras": {
-            "W": 6,
-            "N": 1,
+            "W": 16,
+            "N": 3,
             "B": 0
           },
           "runsByOver": [
             {
               "over": 1,
-              "runs": 4
-            },
-            {
-              "over": 2,
               "runs": 8
             },
             {
-              "over": 3,
+              "over": 2,
               "runs": 14
             },
             {
+              "over": 3,
+              "runs": 18
+            },
+            {
               "over": 4,
-              "runs": 16
+              "runs": 21
             },
             {
               "over": 5,
-              "runs": 22
+              "runs": 28
             },
             {
               "over": 6,
-              "runs": 25
+              "runs": 37
             },
             {
               "over": 7,
-              "runs": 32
+              "runs": 42
             },
             {
               "over": 8,
-              "runs": 35
+              "runs": 50
             },
             {
               "over": 9,
-              "runs": 39
+              "runs": 60
             },
             {
               "over": 10,
-              "runs": 41
+              "runs": 65
             },
             {
               "over": 11,
-              "runs": 45
+              "runs": 69
             },
             {
               "over": 12,
-              "runs": 48
+              "runs": 80
             },
             {
               "over": 13,
-              "runs": 53
+              "runs": 83
             },
             {
               "over": 14,
-              "runs": 56
+              "runs": 85
             },
             {
               "over": 15,
-              "runs": 58
+              "runs": 92
             },
             {
               "over": 16,
-              "runs": 63
-            }
-          ],
-          "fow": [
-            {
-              "wicket": 1,
-              "runs": 3,
-              "player": "Puneeth"
-            },
-            {
-              "wicket": 2,
-              "runs": 7,
-              "player": "Puneeth"
-            },
-            {
-              "wicket": 3,
-              "runs": 9,
-              "player": "Puneeth"
-            },
-            {
-              "wicket": 4,
-              "runs": 10,
-              "player": "Puneeth"
-            },
-            {
-              "wicket": 5,
-              "runs": 14,
-              "player": "Puneeth"
-            },
-            {
-              "wicket": 6,
-              "runs": 16,
-              "player": "Puneeth"
-            },
-            {
-              "wicket": 7,
-              "runs": 36,
-              "player": "Puneeth"
-            },
-            {
-              "wicket": 8,
-              "runs": 40,
-              "player": "Puneeth"
+              "runs": 96
             }
           ]
         },
         "bowling": {
-          "name":"Caesars",
+          "name": "Stratosphere",
           "plalyersBowling": [
             {
-              "id": 18,
-              "name": "Robin",
+              "id": 86,
+              "name": "Suman",
               "overs": 4,
               "maiden": 0,
-              "runs": 17,
-              "wickets": 2,
-              "dots": 10,
-              "fours": 0,
+              "runs": 18,
+              "wickets": 3,
+              "dots": 11,
+              "fours": 1,
               "sixes": 0
             },
             {
-              "id": 16,
-              "name": "Ranjith",
+              "id": 85,
+              "name": "Nissar",
               "overs": 4,
-              "maiden": 0,
-              "runs": 13,
-              "wickets": 1,
-              "dots": 13,
-              "fours": 0,
-              "sixes": 0
-            },
-            {
-              "id": 20,
-              "name": "Biju",
-              "overs": 3,
               "maiden": 0,
               "runs": 15,
               "wickets": 1,
-              "dots": 6,
+              "dots": 12,
               "fours": 0,
               "sixes": 0
             },
             {
-              "id": 15,
-              "name": "Subbu",
+              "id": 87,
+              "name": "Leela",
               "overs": 4,
-              "maiden": 0,
-              "runs": 11,
-              "wickets": 3,
-              "dots": 12,
+              "maiden": 1,
+              "runs": 24,
+              "wickets": 0,
+              "dots": 9,
               "fours": 0,
+              "sixes": 0
+            },
+            {
+              "id": 43,
+              "name": "Biplab",
+              "overs": 2,
+              "maiden": 0,
+              "runs": 17,
+              "wickets": 2,
+              "dots": 5,
+              "fours": 1,
+              "sixes": 0
+            },
+            {
+              "id": 96,
+              "name": "Leo",
+              "overs": 2,
+              "maiden": 0,
+              "runs": 21,
+              "wickets": 0,
+              "dots": 2,
+              "fours": 1,
               "sixes": 0
             }
           ]
@@ -275,166 +216,219 @@
       },
       {
         "batting": {
-          "name": "Caesars",
+          "name": "Stratosphere",
           "playerInnings": [
             {
-              "id": 24,
-              "name": "Dhruv",
-              "howout": "Not out",
-              "runs": 30,
-              "balls": 28,
-              "fours": 0,
-              "sixes": 1
-            },
-            {
-              "id": 19,
-              "name": "Manju",
-              "howout": "c Krishna b Vikram",
-              "runs": 8,
-              "balls": 15,
+              "id": 90,
+              "name": "Pramod",
+              "howout": "c Avinash b Anil",
+              "runs": 15,
+              "balls": 25,
               "fours": 0,
               "sixes": 0
             },
             {
-              "id": 23,
-              "name": "Pradeep",
-              "howout": "c Chandru b Chaitanya",
-              "runs": 2,
+              "id": 89,
+              "name": "Shankar",
+              "howout": "c Shiva b Mahesh",
+              "runs": 1,
+              "balls": 3,
+              "fours": 0,
+              "sixes": 0
+            },
+            {
+              "id": 85,
+              "name": "Nisar",
+              "howout": "c & b Anil",
+              "runs": 9,
+              "balls": 9,
+              "fours": 1,
+              "sixes": 0
+            },
+            {
+              "id": 96,
+              "name": "Leo",
+              "howout": "c Veera b Nagaraj",
+              "runs": 9,
+              "balls": 15,
+              "fours": 1,
+              "sixes": 0
+            },
+            {
+              "id": 86,
+              "name": "Suman",
+              "howout": "c Nagaraj b Anil",
+              "runs": 3,
+              "balls": 7,
+              "fours": 0,
+              "sixes": 0
+            },
+            {
+              "id": 87,
+              "name": "Leela",
+              "howout": "c & b Nagaraj",
+              "runs": 3,
               "balls": 5,
               "fours": 0,
               "sixes": 0
             },
             {
-              "id": 15,
-              "name": "Subbu",
-              "howout": "Not out",
-              "runs": 19,
-              "balls": 13,
-              "fours": 1,
-              "sixes": 1
-            }
-          ],
-          "extras": {
-            "W": 3,
-            "N": 1,
-            "B": 1
-          },
-          "fow": [
-            {
-              "wicket": 1,
-              "runs": 24,
-              "player": "Anil"
-            },
-            {
-              "wicket": 2,
-              "runs": 31,
-              "player": "Surya"
-            }
-          ],
-          "runsByOver": [
-            {
-              "over": 1,
-              "runs": 3
-            },
-            {
-              "over": 2,
-              "runs": 9
-            },
-            {
-              "over": 3,
-              "runs": 12
-            },
-            {
-              "over": 4,
-              "runs": 17
-            },
-            {
-              "over": 5,
-              "runs": 30
-            },
-            {
-              "over": 6,
-              "runs": 34
-            },
-            {
-              "over": 7,
-              "runs": 37
-            },
-            {
-              "over": 8,
-              "runs": 43
-            },
-            {
-              "over": 9,
-              "runs": 48
-            },
-            {
-              "over": 10,
-              "runs": 61
-            },
-            {
-              "over": 10.3,
-              "runs": 64
-            }
-          ]
-        },
-        "bowling": {
-          "name": "Flamingos",
-          "plalyersBowling": [
-            {
-              "id": 31,
-              "name": "Mohammed Elyaas",
-              "overs": 3.3,
-              "maiden": 0,
-              "runs": 15,
-              "wickets": 0,
-              "dots": 7,
+              "id": 91,
+              "name": "Naveen",
+              "howout": "c & b Nagaraj",
+              "runs": 3,
+              "balls": 10,
               "fours": 0,
               "sixes": 0
             },
             {
-              "id": 35,
-              "name": "Vikram Bhaskar",
-              "overs": 2,
-              "maiden": 0,
-              "runs": 19,
-              "wickets": 1,
-              "dots":4,
+              "id": 93,
+              "name": "Biplab",
+              "howout": "Not out",
+              "runs": 2,
+              "balls": 2,
               "fours": 0,
-              "sixes": 1
+              "sixes": 0
             },
             {
-              "id": 34,
-              "name": "Venkatesh Kondragunta",
-              "overs": 2,
+              "id": 95,
+              "name": "Susheel",
+              "howout": "Not out",
+              "runs": 1,
+              "balls": 3,
+              "fours": 0,
+              "sixes": 0
+            }
+          ],
+          "extras": {
+            "W": 20,
+            "N": 0,
+            "B": 0
+          },
+          "runsByOver": [
+            {
+              "over": 1,
+              "runs": 12
+            },
+            {
+              "over": 2,
+              "runs": 12
+            },
+            {
+              "over": 3,
+              "runs": 17
+            },
+            {
+              "over": 4,
+              "runs": 25
+            },
+            {
+              "over": 5,
+              "runs": 27
+            },
+            {
+              "over": 6,
+              "runs": 31
+            },
+            {
+              "over": 7,
+              "runs": 33
+            },
+            {
+              "over": 8,
+              "runs": 39
+            },
+            {
+              "over": 9,
+              "runs": 43
+            },
+            {
+              "over": 10,
+              "runs": 46
+            },
+            {
+              "over": 11,
+              "runs": 50
+            },
+            {
+              "over": 12,
+              "runs": 53
+            },
+            {
+              "over": 13,
+              "runs": 56
+            },
+            {
+              "over": 14,
+              "runs": 59
+            },
+            {
+              "over": 15,
+              "runs": 63
+            },
+            {
+              "over": 16,
+              "runs": 67
+            }
+          ]
+        },
+        "bowling": {
+          "name": "Bellagios",
+          "plalyersBowling": [
+            {
+              "id": 106,
+              "name": "Anil",
+              "overs": 4,
               "maiden": 0,
-              "runs": 9,
+              "runs": 15,
+              "wickets": 2,
+              "dots": 10,
+              "fours": 1,
+              "sixes": 0
+            },
+            {
+              "id": 103,
+              "name": "Nagaraj",
+              "overs": 4,
+              "maiden": 0,
+              "runs": 17,
+              "wickets": 3,
+              "dots": 13,
+              "fours": 1,
+              "sixes": 0
+            },
+            {
+              "id": 101,
+              "name": "Praveen",
+              "overs": 4,
+              "maiden": 0,
+              "runs": 14,
+              "wickets": 0,
+              "dots": 15,
+              "fours": 0,
+              "sixes": 0
+            },
+            {
+              "id": 32,
+              "name": "Shiva",
+              "overs": 1,
+              "maiden": 0,
+              "runs": 12,
               "wickets": 0,
               "dots": 4,
               "fours": 0,
               "sixes": 0
             },
             {
-              "id": 37,
-              "name": "Chaitanya Sunkavalli",
-              "overs": 2,
-              "maiden": 0,
-              "runs": 9,
+              "id": 115,
+              "name": "Mahesh",
+              "overs": 3,
+              "maiden": 1,
+              "runs": 12,
               "wickets": 1,
-              "dots": 6,
-              "fours": 0,
-              "sixes": 0
-            },
-            {
-              "id": 41,
-              "name": "Akbar A. Khan",
-              "overs": 1,
-              "maiden": 0,
-              "runs": 13,
-              "wickets": 0,
-              "dots": 2,
+              "dots": 11,
               "fours": 1,
-              "sixes": 1
+              "sixes": 0
             }
           ]
         }
@@ -442,4 +436,3 @@
     ]
   }
 }
-
