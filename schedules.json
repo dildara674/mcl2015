@@ -25,7 +25,7 @@
           "time":"2015-08-28 19:30:00"
         },
         {
-          "id":7,
+          "id":8,
           "teams":{"team1":"Caesars","team2":"Flamingos"},
           "complete":false,
           "Location":"Marymoor Park, Soccer Field #04",
@@ -72,7 +72,7 @@
           "time":"2015-08-28 19:30:00"
         },
         {
-          "id":8,
+          "id":7,
           "teams":{"team1":"Stratosphere","team2":"Bellagios"},
           "complete":false,
           "Location":"Marymoor Park, Soccer Field #04",
