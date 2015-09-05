@@ -1,0 +1,447 @@
+{
+  "match": {
+    "team1": "Luxors",
+    "team2": "Caesars",
+    "matchResult": "Caesars won by 7 runs",
+    "AllInnings": [
+      {
+        "batting": {
+          "name": "Caesars",
+          "playerInnings": [
+            {
+              "id": 24,
+              "name": "Dhruv",
+              "howout": "c Sharath b Neeraj",
+              "runs": 20,
+              "balls": 21,
+              "fours": 1,
+              "sixes": 0
+            },
+            {
+              "id": 19,
+              "name": "Manju",
+              "howout": "b Rama Krishna",
+              "runs": 28,
+              "balls": 28,
+              "fours": 1,
+              "sixes": 0
+            },
+            {
+              "id": 28,
+              "name": "Prathamesh",
+              "howout": "c Sharath b Rama Krishna",
+              "runs": 4,
+              "balls": 9,
+              "fours": 0,
+              "sixes": 0
+            },
+            {
+              "id": 15,
+              "name": "Subbu",
+              "howout": "c Suresh b Ajit",
+              "runs": 17,
+              "balls": 16,
+              "fours": 2,
+              "sixes": 0
+            },
+            {
+              "id": 16,
+              "name": "Ranjith",
+              "howout": "b Rama Krishna",
+              "runs": 11,
+              "balls": 11,
+              "fours": 0,
+              "sixes": 0
+            },
+            {
+              "id": 20,
+              "name": "Biju",
+              "howout": "Not out",
+              "runs": 7,
+              "balls": 8,
+              "fours": 0,
+              "sixes": 0
+            },
+            {
+              "id": 18,
+              "name": "Robin",
+              "howout": "Not out",
+              "runs": 6,
+              "balls": 3,
+              "fours": 1,
+              "sixes": 0
+            }
+          ],
+          "extras": {
+            "W": 8,
+            "N": 4,
+            "B": 1
+          },
+          "runsByOver": [
+            {
+              "over": 1,
+              "runs": 5
+            },
+            {
+              "over": 2,
+              "runs": 11
+            },
+            {
+              "over": 3,
+              "runs": 16
+            },
+            {
+              "over": 4,
+              "runs": 21
+            },
+            {
+              "over": 5,
+              "runs": 37
+            },
+            {
+              "over": 6,
+              "runs": 48
+            },
+            {
+              "over": 7,
+              "runs": 54
+            },
+            {
+              "over": 8,
+              "runs": 56
+            },
+            {
+              "over": 9,
+              "runs": 60
+            },
+            {
+              "over": 10,
+              "runs": 62
+            },
+            {
+              "over": 11,
+              "runs": 70
+            },
+            {
+              "over": 12,
+              "runs": 79
+            },
+            {
+              "over": 13,
+              "runs": 84
+            },
+            {
+              "over": 14,
+              "runs": 91
+            },
+            {
+              "over": 15,
+              "runs": 96
+            },
+            {
+              "over": 16,
+              "runs": 106
+            }
+          ]
+        },
+        "bowling": {
+          "name":"Luxors",
+          "plalyersBowling": [
+            {
+              "id": 46,
+              "name": "Sanjeev Modugu",
+              "overs": 3,
+              "maiden": 0,
+              "runs": 14,
+              "wickets": 0,
+              "dots": 9,
+              "fours": 0,
+              "sixes": 0
+            },
+            {
+              "id": 45,
+              "name": "Ramakrishna Sanigarapu",
+              "overs": 4,
+              "maiden": 0,
+              "runs": 18,
+              "wickets": 3,
+              "dots": 12,
+              "fours": 0,
+              "sixes": 0
+            },
+            {
+              "id": 48,
+              "name": "Ajit",
+              "overs": 4,
+              "maiden": 0,
+              "runs": 36,
+              "wickets": 1,
+              "dots": 6,
+              "fours": 2,
+              "sixes": 0
+            },
+            {
+              "id": 54,
+              "name": "Neeraj Bhaskar",
+              "overs": 4,
+              "maiden": 0,
+              "runs": 28,
+              "wickets": 1,
+              "dots": 11,
+              "fours": 2,
+              "sixes": 0
+            },
+            {
+              "id": 53,
+              "name": "Deepesh",
+              "overs": 1,
+              "maiden": 0,
+              "runs": 10,
+              "wickets": 0,
+              "dots": 1,
+              "fours": 1,
+              "sixes": 0
+            }
+          ]
+        }
+      },
+      {
+        "batting": {
+          "name": "Luxors",
+          "playerInnings": [
+            {
+              "id": 51,
+              "name": "Suresh",
+              "howout": "run out",
+              "runs": 0,
+              "balls": 1,
+              "fours": 0,
+              "sixes": 0
+            },
+            {
+              "id": 49,
+              "name": "Venkat Tallapaneni",
+              "howout": "b Prathamesh",
+              "runs": 3,
+              "balls": 7,
+              "fours": 0,
+              "sixes": 0
+            },
+            {
+              "id": 55,
+              "name": "Viswa",
+              "howout": "b Prathamesh",
+              "runs": 3,
+              "balls": 7,
+              "fours": 0,
+              "sixes": 0
+            },
+            {
+              "id": 44,
+              "name": "Sharath Kotla",
+              "howout": "b Prathamesh",
+              "runs": 13,
+              "balls": 15,
+              "fours": 0,
+              "sixes": 0
+            },
+            {
+              "id": 48,
+              "name": "Ajit",
+              "howout": "b Robin",
+              "runs": 13,
+              "balls": 9,
+              "fours": 0,
+              "sixes": 1
+            },
+            {
+              "id": 54,
+              "name": "Neeraj Bhaskar",
+              "howout": "Not out",
+              "runs": 31,
+              "balls": 26,
+              "fours": 2,
+              "sixes": 0
+            },
+            {
+              "id": 53,
+              "name": "Deepesh",
+              "howout": "c Subbu b Manju",
+              "runs":10,
+              "balls": 13,
+              "fours": 0,
+              "sixes": 0
+            },
+            {
+              "id": 45,
+              "name": "Ramakrishna Sanigarapu",
+              "howout": "Run out",
+              "runs": 3,
+              "balls": 4,
+              "fours": 0,
+              "sixes": 0
+            },
+            {
+              "id": 46,
+              "name": "Sanjeev Modugu",
+              "howout": "Not out",
+              "runs": 7,
+              "balls": 8,
+              "fours": 0,
+              "sixes": 0
+            }
+          ],
+          "extras": {"W":10, "N":2, "B":0},
+          "runsByOver": [
+            {
+              "over": 1,
+              "runs": 4
+            },
+            {
+              "over": 2,
+              "runs": 5
+            },
+            {
+              "over": 3,
+              "runs": 11
+            },
+            {
+              "over": 4,
+              "runs": 19
+            },
+            {
+              "over": 5,
+              "runs": 29
+            },
+            {
+              "over": 6,
+              "runs": 39
+            },
+            {
+              "over": 7,
+              "runs": 41
+            },
+            {
+              "over": 8,
+              "runs": 47
+            },
+            {
+              "over": 9,
+              "runs": 56
+            },
+            {
+              "over": 10,
+              "runs": 61
+            },
+            {
+              "over": 11,
+              "runs": 68
+            },
+            {
+              "over": 12,
+              "runs": 71
+            },
+            {
+              "over": 13,
+              "runs": 71
+            },
+            {
+              "over": 14,
+              "runs": 81
+            },
+            {
+              "over": 15,
+              "runs": 91
+            },
+            {
+              "over": 16,
+              "runs": 99
+            }
+          ]
+        },
+        "bowling": {
+          "name":"Caesars",
+          "plalyersBowling": [
+            {
+              "id": 18,
+              "name": "Robin",
+              "overs": 3,
+              "maiden": 0,
+              "runs": 20,
+              "wickets": 1,
+              "dots": 9,
+              "fours": 0,
+              "sixes": 1
+            },
+            {
+              "id": 17,
+              "name": "Varun",
+              "overs": 2,
+              "maiden": 0,
+              "runs": 9,
+              "wickets": 0,
+              "dots": 7,
+              "fours": 0,
+              "sixes": 0
+            },
+            {
+              "id": 28,
+              "name": "Prathamesh",
+              "overs": 1,
+              "maiden": 0,
+              "runs": 6,
+              "wickets": 2,
+              "dots": 3,
+              "fours": 0,
+              "sixes": 0
+            },
+            {
+              "id": 16,
+              "name": "Ranjith",
+              "overs": 1,
+              "maiden": 0,
+              "runs": 10,
+              "wickets": 0,
+              "dots": 0,
+              "fours": 0,
+              "sixes": 0
+            },
+            {
+              "id": 20,
+              "name": "Biju",
+              "overs": 2,
+              "maiden": 0,
+              "runs": 9,
+              "wickets": 1,
+              "dots": 6,
+              "fours": 0,
+              "sixes": 0
+            },
+            {
+              "id": 19,
+              "name": "Manju",
+              "overs": 3,
+              "maiden": 0,
+              "runs": 25,
+              "wickets": 1,
+              "dots": 6,
+              "fours": 1,
+              "sixes": 0
+            },
+            {
+              "id": 15,
+              "name": "Subbu",
+              "overs": 4,
+              "maiden": 0,
+              "runs": 20,
+              "wickets": 0,
+              "dots": 9,
+              "fours": 0,
+              "sixes": 0
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
