@@ -94,7 +94,7 @@
             {
               "id": 17,
               "name": "Varun Gupta",
-              "isCaptain": true
+              "isCaptain": false
             },
             {
               "id": 18,
@@ -169,7 +169,7 @@
             {
               "id": 31,
               "name": "Mohammed Elyaas",
-              "isCaptain": true
+              "isCaptain": false
             },
             {
               "id": 32,
@@ -244,12 +244,12 @@
             {
               "id": 45,
               "name": "Ramakrishna Sanigarapu",
-              "isCaptain": true
+              "isCaptain": false
             },
             {
               "id": 46,
               "name": "Sanjeevkumar Reddy Modugu",
-              "isCaptain": false
+              "isCaptain": true
             },
             {
               "id": 47,
@@ -399,7 +399,7 @@
             {
               "id": 73,
               "name": "Udayshankar A B",
-              "isCaptain": true
+              "isCaptain": false
             },
             {
               "id": 74,
@@ -549,7 +549,7 @@
             {
               "id": 102,
               "name": "Puneeth Kammili",
-              "isCaptain": true
+              "isCaptain": false
             },
             {
               "id": 103,
@@ -564,7 +564,7 @@
             {
               "id": 105,
               "name": "Veerabhadra Achari",
-              "isCaptain": false
+              "isCaptain": true
             },
             {
               "id": 106,
