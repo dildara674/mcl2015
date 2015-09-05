@@ -224,6 +224,7 @@
           ]
         },
         "bowling": {
+          "name":"Caesars",
           "plalyersBowling": [
             {
               "id": 18,
