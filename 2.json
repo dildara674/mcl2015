@@ -566,6 +566,7 @@
           ]
         },
         "bowling": {
+          "name":"Stratosphere",
           "plalyersBowling": [
             {
               "id": 88,
