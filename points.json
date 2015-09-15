@@ -21,20 +21,20 @@
     },
     {
       "team":"Flamingos",
-      "matches":2,
+      "matches":3,
       "won":0,
-      "lost":2,
+      "lost":3,
       "tied":0,
       "noResult":0,
       "points":0,
-      "last2":[0,0],
+      "last2":[0,0,0],
       "for":{
-        "runs":[85,63],
-        "overs":[96,96]
+        "runs":[85,63,76],
+        "overs":[96,96,96]
       },
       "against":{
-        "runs":[98,64],
-        "overs":[96,63]
+        "runs":[98,64,103],
+        "overs":[96,63,96]
       }
     },
     {
@@ -57,19 +57,19 @@
     },{
       "team":"Venetians",
       "matches":2,
-      "won":0,
+      "won":1,
       "lost":2,
       "tied":0,
       "noResult":0,
-      "points":0,
-      "last2":[0,0],
+      "points":10,
+      "last2":[1,0,0],
       "for":{
-        "runs":[62,64],
-        "overs":[96,96]
+        "runs":[62,64,103],
+        "overs":[96,96,96]
       },
       "against":{
-        "runs":[85,108],
-        "overs":[96,96]
+        "runs":[85,108,76],
+        "overs":[96,96,93]
       }
     }
       ]
