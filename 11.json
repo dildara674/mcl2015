@@ -287,7 +287,7 @@
               "howout": "Run out",
               "runs": 22,
               "balls": 21,
-              "fours": 4,
+              "fours": 2,
               "sixes": 0
             },
             {
@@ -319,7 +319,7 @@
             }
           ],
           "extras": {
-            "W": 10,
+            "W": 11,
             "N": 2,
             "B": 2
           },
