@@ -84,7 +84,7 @@
           "extras": {
             "W": 5,
             "N": 4,
-            "B": 2
+            "B": 4
           },
           "runsByOver": [
             {
@@ -249,8 +249,8 @@
               "id": 38,
               "name": "Rohit",
               "howout": "c Murthy b Ajay",
-              "runs": 2,
-              "balls": 1,
+              "runs": 1,
+              "balls": 2,
               "fours": 0,
               "sixes": 0
             },
@@ -320,7 +320,7 @@
           ],
           "extras": {
             "W": 10,
-            "N": 1,
+            "N": 2,
             "B": 2
           },
           "runsByOver": [
