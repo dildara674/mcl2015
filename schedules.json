@@ -99,14 +99,14 @@
       "matches":[
         {
           "id":13,
-          "teams":{"team1":"Group A #1","team2":"Group B #2"},
+          "teams":{"team1":"Caesars","team2":"Bellagios"},
           "complete":false,
           "Location":"Robinswood Park, West Soccer Field",
           "time":"2015-09-18 18:00:00"
         },
         {
           "id":14,
-          "teams":{"team1":"Group A #2","team2":"Group B #1"},
+          "teams":{"team1":"Stratosphere","team2":"Luxors"},
           "Location":"Robinswood Park, West Soccer Field",
           "complete":false,
           "time":"2015-09-18 20:30:00"
