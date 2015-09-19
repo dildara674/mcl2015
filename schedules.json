@@ -118,10 +118,10 @@
       "matches":[
         {
           "id":15,
-          "teams":{"team1":"Semifinal 1 winner","team2":"Semifinal 2 winner"},
+          "teams":{"team1":"Bellagios","team2":"Stratosphere"},
           "complete":false,
           "Location":"Marymoor Park, Soccer Field #06",
-          "time":"2015-09-20 17:00:00"
+          "time":"2015-09-20 15:00:00"
         }
         ]
     }
