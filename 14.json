@@ -102,7 +102,7 @@
               "id": 53,
               "name": "Deepesh",
               "howout": "c Rahul b Nissar",
-              "runs": 10,
+              "runs": 0,
               "balls": 13,
               "fours": 0,
               "sixes": 0
@@ -110,7 +110,7 @@
           ],
           "extras": {
             "W": 5,
-            "N": 1,
+            "N": 0,
             "B": 1
           },
           "runsByOver": [
@@ -226,8 +226,8 @@
               "id": 90,
               "name": "Pramod",
               "howout": "c Sharath b Sanjeev",
-              "runs": 4,
-              "balls": 0,
+              "runs": 0,
+              "balls": 4,
               "fours": 0,
               "sixes": 0
             },
