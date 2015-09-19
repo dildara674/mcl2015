@@ -247,7 +247,7 @@
               "id": 103,
               "name": "Nagaraj",
               "howout": "Not out",
-              "runs": 13,
+              "runs": 12,
               "balls": 17,
               "fours": 0,
               "sixes": 0
@@ -256,7 +256,7 @@
               "id": 32,
               "name": "Shiva",
               "howout": "b Robin",
-              "runs": 11,
+              "runs": 10,
               "balls": 31,
               "fours": 0,
               "sixes": 0
@@ -292,7 +292,7 @@
           "extras": {
             "W": 12,
             "N": 3,
-            "B": 2
+            "B": 1
           },
           "runsByOver": [
             {
