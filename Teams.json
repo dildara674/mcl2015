@@ -527,6 +527,11 @@
               "isCaptain": false
             },
             {
+              "id": 107,
+              "name": "Shyam Kuravalli",
+              "isCaptain": false
+            },
+            {
               "id": 98,
               "name": "Shaun Broomall",
               "isCaptain": false
@@ -571,11 +576,7 @@
               "name": "Anil Bandari",
               "isCaptain": false
             },
-            {
-              "id": 107,
-              "name": "Shyam Kuravalli",
-              "isCaptain": false
-            },
+            
             {
               "id": 108,
               "name": "Anil Kandibanda",
